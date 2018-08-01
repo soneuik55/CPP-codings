@@ -1,0 +1,73 @@
+Script started on Thu 10 Nov 2016 05:18:12 PM PST
+]0;son@abbott:~/cs140[01;32mson@abbott[01;34m ~/cs140 $[00m java Son_M[KMadlib[K[K[KLibs.txt[K[K[K[K
+Enter the file name
+MAd  adLibs1.txt
+You have to enter 18 of input
+Please provide a word for each of the follower
+Name of person in room:Kim   Kim
+Same name of person in room:Kim
+Verb ending in "ing":feeling       d looking
+Verb:touh ch
+Noun (plural):chairs
+Same name of person in room:Kim
+Adjective:beatu  utiful
+Adjective:cold
+Noun (plural):botte les
+Place:school
+Same name of person in room:Kim
+Verb ending in "ed":lokc  cked
+Emotion:sadene   ness
+Adverb:there
+Adjective:serous    rious
+Noun (plural):tablw es
+Same name of person in room:Kim
+Noun:toilet      bed   bed
+Batman is  Kim. Teenager  Kim was traumatized by  looking his parent`s murder and vowed to  touch their deaths by bringing the  chairs to justice.  Kim used his  beautiful fortune to study criminology, to train his body to  cold perfection, and to acquire high tech vehicles and  bottles to fight crime in his hometown of  school. One night  Kim was  locked by a bat outside his window and decided to dress himself as a "bat man" to strike  sadness in the " there and  serious" hearts of  tables. From that moment forward,  Kim became "Batman" in his altered bed
+]0;son@abbott:~/cs140[01;32mson@abbott[01;34m ~/cs140 $[00m java Son_MadLibs[1Ppico ICA43.javajava Son_MadLibs
+Enter the file name
+MadLibs2.txt
+You have to enter 14 of input
+Please provide a word for each of the follower
+Noun:watwr  er
+Emotion:happ piness
+Girl's name:Sindy
+Name of bad guy:joker   ker
+Letter:a
+Letter:b
+Number:123
+Noun (plural):bo ikes
+Occupation:doctor
+Boy's name:sean
+Verb:h grab
+Noun:baseball
+Same boy's name:sean
+Noun:bed
+In the film  water Wars: A New  happiness, Princess  Sindy sends out a call for help right before she gets captured by  joker. The call reached  a b- 123 through a teenager named Luke and two  bikes. Luke finds out that he is a/an  doctor and joins up with  sean. Together they  grab the princess. At the end of the film, Luke destroys the death  baseball while  sean covers his  bed
+]0;son@abbott:~/cs140[01;32mson@abbott[01;34m ~/cs140 $[00m java Son_MadLibs[1Ppico ICA43.javajava Son_MadLibs
+Enter the file name
+MadLibs1.txt
+You have to enter 18 of input
+Please provide a word for each of the follower
+Name of person in room:Ace
+Same name of person in room:Ace
+Verb ending in "ing":touching        looking at
+Verb:f tou   touch
+Noun (plural):tal bles
+Same name of person in room:Ace
+Adjective:sad
+Adjective:b gea  reat
+Noun (plural):cars
+Place:hospital
+Same name of person in room:Ace
+Verb ending in "ed":knocked
+Emotion:saden  ness
+Adverb:there
+Adjective:cold    hot
+Noun (plural):men
+Same name of person in room:ACe  ce
+Noun:cooke ie es 
+Batman is  Ace. Teenager  Ace was traumatized by  looking at his parent`s murder and vowed to  touch their deaths by bringing the  tables to justice.  Ace used his  sad fortune to study criminology, to train his body to  great perfection, and to acquire high tech vehicles and  cars to fight crime in his hometown of  hospital. One night  Ace was  knocked by a bat outside his window and decided to dress himself as a "bat man" to strike  sadness in the " there and  hot" hearts of  men. From that moment forward,  Ace became "Batman" in his altered cookie
+]0;son@abbott:~/cs140[01;32mson@abbott[01;34m ~/cs140 $[00m ex[K[Kexit
+exit
+
+Script done on Thu 10 Nov 2016 05:27:59 PM PST

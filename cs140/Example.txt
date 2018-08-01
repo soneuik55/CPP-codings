@@ -1,0 +1,31 @@
+Script started on Sat 01 Oct 2016 04:28:48 PM PDT
+]0;son@costello:~/cs140[01;32mson@costello[01;34m ~/cs140 $[00m pwd
+/user/son/cs140
+]0;son@costello:~/cs140[01;32mson@costello[01;34m ~/cs140 $[00m ls
+Example.class  Example.java  Example.txt
+]0;son@costello:~/cs140[01;32mson@costello[01;34m ~/cs140 $[00m cat Example.java
+// Son Sunghwan  No partner name
+// Oct.01.2016
+
+public class Example
+{
+
+     public static void main(String[] args)
+
+        {
+          System.out.println( " This is an example Java program" );
+          System.out.println( " " );
+          System.out.println (" ... a very SIMPLE one..." );
+         };
+
+}
+
+]0;son@costello:~/cs140[01;32mson@costello[01;34m ~/cs140 $[00m javac Example.java
+]0;son@costello:~/cs140[01;32mson@costello[01;34m ~/cs140 $[00m java Example.[K
+ This is an example Java program
+ 
+ ... a very SIMPLE one...
+]0;son@costello:~/cs140[01;32mson@costello[01;34m ~/cs140 $[00m exit
+exit
+
+Script done on Sat 01 Oct 2016 04:29:34 PM PDT

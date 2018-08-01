@@ -1,0 +1,38 @@
+import java.util.Scanner;
+
+public class grade
+{ 
+  public static void main(String[] args)
+  {   
+   double score1, score2, score3, average;
+   char grade='a';
+
+   Scanner input=new Scanner(System.in);
+   
+   System.out.println("Enter your score1");
+   score1=input.nextDouble();
+   System.out.println("Enter your score2");
+   score2=input.nextDouble();
+   System.out.println("Enter your score3");
+   score3=input.nextDouble();
+
+   average= (score1+score2+score3)/3;
+   
+   if(average>=90)
+   grade='A';
+   else if(average>=80 && average<90)
+   grade='B';
+   else if(average>=70 && average<80)
+   grade='C';
+   else if(average>=60 && average<70)
+   grade='D';
+   else if(average<60)
+   grade='F';
+   else
+   System.out.println("Invalid input");
+
+   System.out.println("Your grade is "+ grade);
+
+
+ }
+}

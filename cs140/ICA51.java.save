@@ -1,0 +1,11 @@
+import java.util.Scanner;
+import java.io.*;
+import java.util.Random;
+public class ICA51
+{
+  public static void main(String[] args)
+ {
+  Random randomNum=new Random();
+  
+  
+  

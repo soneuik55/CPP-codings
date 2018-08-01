@@ -1,0 +1,15 @@
+public class FormattedOutput
+{
+ public static void main(String[] args)
+ { 
+   String name = "Son Sunghwan";
+   String major = "Computer Science";
+   String class1 = "cs'140'", class2 = "bio'110'", class3 = "IGE'320'";
+   String class4 = "Bio'l11'";
+
+
+   System.out.println(\" name \");
+   System.out.println(\\major\\);
+   System.out.println(class1+","+class2+","+class3+","+class4);
+  }
+} 

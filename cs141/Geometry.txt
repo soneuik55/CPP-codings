@@ -1,0 +1,84 @@
+Script started on Tue 24 Jan 2017 02:14:11 PM PST
+]0;son@abbott:~/cs141[01;32mson@abbott[01;34m ~/cs141 $[00m java Son_Driver
+Geometry Calculator
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+1
+Enter the radius
+34 5
+The area of the circle is: 3848.45 
+Geometry Calculator
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+2
+Enter the length
+45
+Enter the width
+34
+The area of the Rectangle is: 1530.00 
+Geometry Calculator
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+3
+Enter the height
+23
+Enter the base
+10
+The area of the Triangle is: 115.00 
+Geometry Calculator
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+4
+]0;son@abbott:~/cs141[01;32mson@abbott[01;34m ~/cs141 $[00m java Son_Driver
+Geometry Calculator
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+1
+Enter the radius
+-2
+There is an error in your value! It must be an positive value
+]0;son@abbott:~/cs141[01;32mson@abbott[01;34m ~/cs141 $[00m java Son_Driver
+Geometry Calculator
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+2
+Enter the length
+-3
+Enter the width
+-4
+There is an error in your value! It must be an positive value
+]0;son@abbott:~/cs141[01;32mson@abbott[01;34m ~/cs141 $[00m java Son_Driver
+Geometry Calculator
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+3
+Enter the height
+-4 10
+Enter the base
+2
+There is an error in your value! It must be an positive value
+]0;son@abbott:~/cs141[01;32mson@abbott[01;34m ~/cs141 $[00m java Son_Driver
+Geometry Calculator
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+4
+]0;son@abbott:~/cs141[01;32mson@abbott[01;34m ~/cs141 $[00m java Son_Driver[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexit
+exit
+
+Script done on Tue 24 Jan 2017 02:15:10 PM PST

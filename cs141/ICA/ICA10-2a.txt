@@ -1,0 +1,36 @@
+public class Rodent 
+{
+
+}//end of Rodent
+
+public class Mouse extends Rodent
+{
+
+}// end of mouse
+
+public class Gerbil extends Rodent
+{
+
+}//end of Gerbil
+
+public class Hamster extends Rodent
+{
+
+}//end of Hamster class
+
+
+
+public class driver extends Rodent
+{
+ public static void main(String[] args)
+ {
+   Rodent[] kinds= new Rodent[4];
+    kinds[0] = new Rodent();
+    kinds[1] = new Mouse();
+    kinds[2] = new Gerbil();
+    kinds[3] = new Hamster();
+  
+
+  }//end of main
+
+}//end of class driver

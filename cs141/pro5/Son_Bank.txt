@@ -1,0 +1,205 @@
+Script started on Tue 28 Feb 2017 10:44:05 PM PST
+]0;son@costello:~/cs141/pro5[01;32mson@costello[01;34m ~/cs141/pro5 $[00m exitjava driver
+Which account would you like to access, regular or savings?: 
+re  savings
+What action do you wish to perform
+(Withdraw, deposit, monthly processing)?:
+monthly processing
+Regular account is inactive.
+Your balance is: 15.00
+Which account would you like to access, regular or savings?: 
+
+sacing    vings
+What action do you wish to perform
+(Withdraw, deposit, monthly processing)?:
+deposit
+Enter amount to deposit:
+25
+Regular account is now active.
+Account balance is: 40.00
+Which account would you like to access, regular or savings?: 
+regulr ar
+What action do you wish to perform
+(Withdraw, deposit, monthly processing)?:
+deposit
+Enter amount to deposit:
+254
+Regular account is now active.
+Account balance is: 254.00
+
+Which account would you like to access, regular or savings?: 
+regular
+What action do you wish to perform
+(Withdraw, deposit, monthly processing)?:
+de  withdraw
+Enter amount to withdraw:
+100
+Account balance is: 154.00
+
+Which account would you like to access, regular or savings?: 
+d regular
+What action do you wish to perform
+(Withdraw, deposit, monthly processing)?:
+de  withdraw1 
+Enter amount to withdraw:
+160
+Error - Not enough funds.
+Account balance is: 154.00
+
+Which account would you like to access, regular or savings?: 
+quit
+]0;son@costello:~/cs141/pro5[01;32mson@costello[01;34m ~/cs141/pro5 $[00m java driver
+Which account would you like to access, regular or savings?: 
+regular
+What action do you wish to perform
+(Withdraw, deposit, monthly processing)?:
+deposit
+Enter amount to deposit:
+10
+Regular account is not active.
+Account balance is: 10.00
+
+Which account would you like to access, regular or savings?: 
+regular
+What action do you wish to perform
+(Withdraw, deposit, monthly processing)?:
+deposit
+Enter amount to deposit:
+20
+Regular account is now active.
+Account balance is: 30.00
+
+Which account would you like to access, regular or savings?: 
+ree gular
+What action do you wish to perform
+(Withdraw, deposit, monthly processing)?:
+deposit       deposit
+Enter amount to deposit:
+1000
+Account balance is: 1030.00
+
+Which account would you like to access, regular or savings?: 
+de  regulr ar
+What action do you wish to perform
+(Withdraw, deposit, monthly processing)?:
+withdraw
+Enter amount to withdraw:
+10
+Account balance is: 1020.00
+
+Which account would you like to access, regular or savings?: 
+regular
+What action do you wish to perform
+(Withdraw, deposit, monthly processing)?:
+withdraw
+Enter amount to withdraw:
+10
+Account balance is: 1010.00
+
+Which account would you like to access, regular or savings?: 
+regualr
+You enter wrong input
+
+Which account would you like to access, regular or savings?: 
+de  withdraw
+20
+You enter wrong input
+
+Which account would you like to access, regular or savings?: 
+regular
+regular
+What action do you wish to perform
+(Withdraw, deposit, monthly processing)?:
+withdraw
+Enter amount to withdraw:
+20
+Account balance is: 990.00
+
+Which account would you like to access, regular or savings?: 
+regular
+What action do you wish to perform
+(Withdraw, deposit, monthly processing)?:
+monthly rp  processing
+Regular account is now active.
+Your balance is: 994.96
+Which account would you like to access, regular or savings?: 
+
+savings
+What action do you wish to perform
+(Withdraw, deposit, monthly processing)?:
+depde  osit
+Enter amount to deposit:
+1000
+Regular account is now active.
+Account balance is: 1015.00
+Which account would you like to access, regular or savings?: 
+savings
+What action do you wish to perform
+(Withdraw, deposit, monthly processing)?:
+monthly proecssing
+You enter wrong input
+
+Which account would you like to access, regular or savings?: 
+s 
+savings
+What action do you wish to perform
+(Withdraw, deposit, monthly processing)?:
+monthy ly processing
+Regular account is now active.
+Your balance is: 1023.48
+Which account would you like to access, regular or savings?: 
+
+quit
+]0;son@costello:~/cs141/pro5[01;32mson@costello[01;34m ~/cs141/pro5 $[00m java driver
+Which account would you like to access, regular or savings?: 
+regular
+What action do you wish to perform
+(Withdraw, deposit, monthly processing)?:
+dep   withdraw
+Enter amount to withdraw:
+100
+Your regular account is inactive.
+Account balance is: 0.00
+
+Which account would you like to access, regular or savings?: 
+regular
+What action do you wish to perform
+(Withdraw, deposit, monthly processing)?:
+deposit
+Enter amount to deposit:
+10000
+Regular account is now active.
+Account balance is: 10000.00
+
+Which account would you like to access, regular or savings?: 
+savings
+What action do you wish to perform
+(Withdraw, deposit, monthly processing)?:
+de  withdraw
+Enter amount to withdraw:
+1000
+Your regular account is inactive.
+Account balance is: 15.00
+Which account would you like to access, regular or savings?: 
+de  savings
+What action do you wish to perform
+(Withdraw, deposit, monthly processing)?:
+deposit
+Enter amount to deposit:
+10000
+Regular account is now active.
+Account balance is: 10015.00
+Which account would you like to access, regular or savings?: 
+savings
+What action do you wish to perform
+(Withdraw, deposit, monthly processing)?:
+monthly processing
+Regular account is now active.
+Your balance is: 10098.63
+Which account would you like to access, regular or savings?: 
+
+quit
+]0;son@costello:~/cs141/pro5[01;32mson@costello[01;34m ~/cs141/pro5 $[00m exit
+exit
+
+Script done on Tue 28 Feb 2017 10:47:45 PM PST

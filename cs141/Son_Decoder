@@ -1,0 +1,13 @@
+Script started on Thu 12 Jan 2017 07:15:31 PM PST
+]0;son@abbott:~/cs141[01;32mson@abbott[01;34m ~/cs141 $[00m exitjava Son_Decoderexit[Kjava Son_Decoder
+Enter the file to decode
+secretText1.txt
+Your secret message is: the angels have the phone box
+]0;son@abbott:~/cs141[01;32mson@abbott[01;34m ~/cs141 $[00m java Son_Decoderexit[Kjava Son_Decoder
+Enter the file to decode
+secretText2.txt
+Your secret message is: hit that wire with the connecting hook at precisely 88 miles per hour
+]0;son@abbott:~/cs141[01;32mson@abbott[01;34m ~/cs141 $[00m exut[K[Kit
+exit
+
+Script done on Thu 12 Jan 2017 07:15:57 PM PST
